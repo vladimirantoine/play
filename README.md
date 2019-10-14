@@ -4,5 +4,5 @@ This is my 2nd line.
 
 Change made as a collaborator.
 
+Change added in dazzling_feature branch TO PROVOKE CONFLICT.
 
-Change added in master branch.
